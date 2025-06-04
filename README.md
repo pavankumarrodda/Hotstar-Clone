@@ -38,7 +38,7 @@ Recreate the Disney+ Hotstar experience with this clone project. Dive into the w
 **Connect with me on**
 </br>
 
-[![Github](https://github.com/pavankumarrodda)
-[![Linkedin](https://www.linkedin.com/in/pavankumarrodda/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pavankumarrodda)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavankumarrodda/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roddapavankumar24@gmail.com)
 
